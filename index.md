@@ -2,6 +2,7 @@
 ---
 ## Demographics:
 Total Population: 73,263
+
 **Population by Sex:**
 Male Population: 34,209
 Female Population: 39,054
@@ -22,7 +23,9 @@ Under 18 Years: 22,678
 65 and Above: 5,826
 
 Population 25 Years or Older: 45,278
+
 **Population of 25 Years or Older by Education:**
+
 Some High School: 14,452
 High School Diploma or Equivalent: 12,032
 Some College: 10,537
