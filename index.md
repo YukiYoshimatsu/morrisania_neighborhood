@@ -32,8 +32,9 @@ Professional School Degree: 193
 Doctorate Degree: 67
 
 ---
-## Distance from Morrisania to Federal Hall: 13.2 mi
-## Distance from Morrisania to Empire State Building: 8.7 mi
+## Relative Distances:
+*Distance from Morrisania to Federal Hall: 13.2 mi
+*Distance from Morrisania to Empire State Building: 8.7 mi
 
 
 <script src="https://embed.github.com/view/geojson/YukiYoshimatsu/morrisania_neighborhood/blob/master/map.geojson.html"></script>
