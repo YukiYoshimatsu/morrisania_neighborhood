@@ -44,4 +44,4 @@ Population 25 Years or Older: 45,278
 
 ***
 
-<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/morrisania_neighborhood/blob/master/map.geojson.html"></script>
+<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/honors_assignment/blob/master/map.geojson"></script>
