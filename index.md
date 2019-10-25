@@ -39,8 +39,8 @@ Population 25 Years or Older: 45,278
 
 ***
 ### Relative Distances:
-*Distance from Morrisania to Federal Hall: 13.2 mi
-*Distance from Morrisania to Empire State Building: 8.7 mi
++ Distance from Morrisania to Federal Hall: 13.2 mi
++ Distance from Morrisania to Empire State Building: 8.7 mi
 
 ***
 
