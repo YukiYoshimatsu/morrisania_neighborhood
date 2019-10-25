@@ -37,4 +37,4 @@
 
 
 
-<script src = "http://embed.github.com/view/geojson/YukiYoshimatsu/honors_assignment/master/map.geojson.html"> <script>
+<script src = "https://github.com/YukiYoshimatsu/morrisania_neighborhood/blob/master/map.geojson.html"> <script>
