@@ -4,10 +4,12 @@
 Total Population: 73,263
 
 **Population by Sex:**
+
 Male Population: 34,209
 Female Population: 39,054
 
 **Population by Race:**
+
 White Only: 7,295
 Black or African American: 32,922
 American Indian or Alaska Native: 588
@@ -17,6 +19,7 @@ Some Other Race: 29,980
 Two or More Races: 1,984
 
 **Population by Age:**
+
 Under 18 Years: 22,678
 18 to 34 Years: 19,025
 35 to 64 Years: 25,734
