@@ -34,7 +34,4 @@
 ## Distance from Morrisania to Empire State Building: 8.7 mi
 
 
-
-
-
-<script src = "https://github.com/YukiYoshimatsu/morrisania_neighborhood/blob/master/map.geojson.html"> <script>
+<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/morrisania_neighborhood/blob/master/map.geojson.html"></script>
