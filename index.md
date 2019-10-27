@@ -5,7 +5,8 @@
 
 #### **Population by Sex:**
 
-##### Male Population: 34,209    Female Population: 39,054
+##### Male Population: 34,209   
+##### Female Population: 39,054
 
 #### **Population by Race:**
 
@@ -23,7 +24,7 @@
 ##### 35 to 64 Years: 25,734
 ##### 65 and Above: 5,826
 
-###### Population 25 Years or Older: 45,278
+##### Population 25 Years or Older: 45,278
 
 #### **Population of 25 Years or Older by Education:**
 
@@ -41,5 +42,4 @@
 + Distance from Morrisania to Empire State Building: 8.7 mi
 
 ***
-
-<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/morrisania_neighborhood/blob/master/morrisania_map.geojson"></script>
+<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/morrisania_neighborhood/master/morrisania_map.geojson"></script>
