@@ -10,7 +10,8 @@
 
 #### **Population by Race:**
 
-##### White Only: 7,295    Asian: 388
+##### White Only: 7,295    
+##### Asian: 388
 ##### Black or African American: 32,922
 ##### American Indian or Alaska Native: 588
 ##### Native Hawaiian or Pacific Islander: 106
