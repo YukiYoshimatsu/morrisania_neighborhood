@@ -47,9 +47,14 @@
 
 ***
 
-<script src="https://embed.github.com/view/json/YukiYoshimatsu/morrisania_neighborhood/master/libVorBikejson"></script>
+<script src="https://embed.github.com/view/json/YukiYoshimatsu/morrisania_neighborhood/master/libVorBike.json"></script>
 
 ***
+
+<script src="https://embed.github.com/view/html/YukiYoshimatsu/morrisania_neighborhood/master/libVorBike.html"></script>
+
+***
+
 Ideal Locations:
 + Intersection of Melrose Ave and East 163rd St (Northeast Corner)
 ++ Nearby to several fast food services and restaurants
@@ -57,32 +62,38 @@ Ideal Locations:
 ++ Available Daycare and Postal Services
 ++ Near the Melrose Station (Metro-North Railroad's Harlem Line)
 ++ Connections to Bx41, Bx6 ad Bx13 buses
+
 + Intersection of Forest Ave and East 163rd St (Southwest Corner)
 ++ Near several educational centers and schools
 ++ Dunbar Playground and Hilton White Playground
 ++ Close to a small shopping center and several smaller restaurants
 ++ Near residential districts and religious centers.
 ++ Bx6 connections
+
 + Intersection of Tinton Ave and East 166th St (South East Corner)
 ++ Near several educational centers 
 ++ Plenty of nearby supermarkets, delis and restaurants 
 ++ Basil Behagen Playground
+
 + Intersection of Park Ave East 168th St (South East Corner)
 ++ Nearby community center and Youth center
 ++ Close to several smaller shopping centers and supermarkets
 ++ Near to educational center and several schools
 ++ Reverend Lena Irons Unity Park and Morgan Playground
 ++ Bx35 connection
+
 + Intersection of Fulton Ave and East 170th St (North West Corner)
 ++ Nearby delis and supermarkets
 ++ Several education centers 
 ++ Availability of recreational activities and restaurants
 ++ Gouverneur Playground, Drew Playground and Crotona Park
+
 + Intersection of Union Ave and East 163rd St (North West Corner)
 ++ Nearby school and educational center
 ++ Several nearby small fast-food restaurants
 ++ Nearby residential (projects) center
 ++ Small shopping centers and shopping markets nearby
+
 + Intersection of Tinton Ave and East 161st St. (North West Corner)
 + Intersection of Trinity Ave and East 161st St. (North West Corner)
 + Caudwell Ave and Between East 161st St. and East 163rd St. 
