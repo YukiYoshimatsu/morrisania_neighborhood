@@ -94,6 +94,7 @@ Ideal Locations:
 + Nearby residential (projects) center
 + Small shopping centers and shopping markets nearby
 
+Other Locations:
 #### + Intersection of Tinton Ave and East 161st St. (North West Corner)
 #### + Intersection of Trinity Ave and East 161st St. (North West Corner)
 #### + Caudwell Ave and Between East 161st St. and East 163rd St. 
@@ -133,5 +134,10 @@ Ideal Locations:
 #### + Cross Bronx Expressway Service Road and Washington Ave
 #### + Arthur Ave and Crotona Park St. North
 #### + Cortona Ave Between Claremont Parkway and Cortona Park North
+
+General Justifications:
++ Locations were placed within reasonable walking distance to MTA bus and subway connections 
++ Locations were placed in residential areas, closest to  public services and educational centers
++ Locations placed near educational centers, parks, and recreational services increase incentives for students and the young adult demographic
 
 
