@@ -135,6 +135,7 @@ Other Locations:
 #### + Arthur Ave and Crotona Park St. North
 #### + Cortona Ave Between Claremont Parkway and Cortona Park North
 
+***
 General Justifications:
 + Locations were placed within reasonable walking distance to MTA bus and subway connections 
 + Locations were placed in residential areas, closest to  public services and educational centers
